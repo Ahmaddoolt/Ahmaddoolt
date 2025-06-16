@@ -23,6 +23,9 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
   <a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-4A98E8?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod"></a>
   <a href="https://en.wikipedia.org/wiki/Model–view–controller" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVC-3D4C5D?style=for-the-badge" alt="MVC"></a>
   <a href="https://en.wikipedia.org/wiki/Model–view–viewmodel" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVVM-3D4C5D?style=for-the-badge" alt="MVVM"></a>
+  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank"><img src="https://img.shields.io/badge/Principles-SOLID-3D4C5D?style=for-the-badge" alt="SOLID Principles"></a>
+  <a href="https://en.wikipedia.org/wiki/Single-responsibility_principle" target="_blank"><img src="https://img.shields.io/badge/Principle-SRP-3D4C5D?style=for-the-badge" alt="Single Responsibility Principle"></a>
+  <a href="https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm" target="_blank"><img src="https://img.shields.io/badge/Paradigm-Divide%20%26%20Conquer-3D4C5D?style=for-the-badge" alt="Divide and Conquer"></a>
   <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
