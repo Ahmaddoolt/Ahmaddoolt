@@ -27,5 +27,6 @@ I'm always learning and currently exploring advanced state management patterns a
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/ahmad-abdulkareem/
+- **LinkedIn:** https://www.linkedin.com/in/ahmad-abdulkarim/
+- **Instagram:** https://www.instagram.com/akoding_/
 - **Email:** ahmaddoolt@gmail.com
