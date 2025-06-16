@@ -22,11 +22,12 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
   <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-4A98E8?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod"></a>
-  <a href="https://en.wikipedia.org/wiki/Model–view–viewmodel" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVVM-3D4C5D?style=for-the-badge" alt="MVVM"></a>
-  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank"><img src="https://img.shields.io/badge/Principles-SOLID-3D4C5D?style=for-the-badge" alt="SOLID Principles"></a>
-  <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank"><img src="https://img.shields.io/badge/Testing-TDD-8A2BE2?style=for-the-badge" alt="TDD"></a>
   <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-4A98E8?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod"></a>
+  <a href="https://en.wikipedia.org/wiki/Model–view–controller" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVC-3D4C5D?style=for-the-badge" alt="MVC"></a>
+  <a href="https://en.wikipedia.org/wiki/Model–view–viewmodel" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVVM-3D4C5D?style=for-the-badge" alt="MVVM"></a>
+  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank"><img src="https://img.shields.io/badge/SOLID-FF6D00?style=for-the-badge&logo=codeigniter&logoColor=white" alt="SOLID"></a>
+  <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank"><img src="https://img.shields.io/badge/TDD-8A2BE2?style=for-the-badge" alt="Test-Driven Development"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
   <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
@@ -44,7 +45,7 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
 ### 🎓 Education
 
 **Aljazeera Private University** | Syria  
-*B.Sc. in Information Engineering* (2019 - 2024)  
+*B.Sc. in Information Engineering* (2020 - 2025)  
 GPA: 3.02/4.0 • [University Website](https://jude.edu.sy/)
 
 ---
