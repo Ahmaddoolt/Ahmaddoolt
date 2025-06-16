@@ -1,8 +1,8 @@
 ### Hi there, I'm Ahmad 👋
 
-I'm not just building apps — I'm building solutions.
+> I'm not just building apps — I'm building solutions.
 
-As a product-minded engineer, I thrive on transforming complex, real-world challenges into intuitive mobile experiences. My portfolio of 8+ applications, including products live on the Google Play Store, demonstrates my commitment to shipping high-quality software.
+As a product-minded engineer, I thrive on transforming complex, real-world challenges into intuitive mobile experiences. My portfolio of 8+ applications, **including products live on the Google Play Store,** demonstrates my commitment to shipping high-quality software.
 
 My key projects include architecting Unicurve, a student success platform designed for high-traffic handling to help students navigate their academic journey, and engineering Sarfisi, a community transit guide to help commuters and tourists navigate local routes in Syria.
 
@@ -45,7 +45,7 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
 ### 🎓 Education
 
 **Aljazeera Private University** | Syria  
-*B.Sc. in Information Engineering* (2020 - 2025)  
+*B.Sc. in Information Engineering* (2019 - 2024)  
 GPA: 3.02/4.0 • [University Website](https://jude.edu.sy/)
 
 ---
