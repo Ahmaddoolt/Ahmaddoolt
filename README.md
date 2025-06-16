@@ -14,7 +14,7 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
 
 - **Languages & Frameworks:** Flutter, Dart, C++, PHP
 - **Databases & Local Storage:** MySQL, Firebase, Supabase, SQFlite, Hive, SharedPreferences
-- **Core Concepts:** Clean Architecture, OOP, State Management (Riverpod, GetX), Performance Optimization (API Caching), Secure Storage
+- **Core Concepts:** Architectural Patterns (Clean Architecture, MVVM, MVC), OOP, State Management (Riverpod, GetX), Performance Optimization (API Caching), Secure Storage
 - **Tools:** Git, GitHub, VS Code
 
 ---
