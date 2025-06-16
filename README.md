@@ -15,12 +15,15 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
 - **Languages & Frameworks:** Flutter, Dart, C++, PHP
 - **Databases & Local Storage:** MySQL, Firebase, Supabase, SQFlite, Hive, SharedPreferences
 - **Core Concepts:** Architectural Patterns (Clean Architecture, MVVM, MVC), OOP, State Management (Riverpod, GetX), Performance Optimization (API Caching), Secure Storage
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, Visual Studio, VS Code
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
   <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
   <a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-4A98E8?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod"></a>
+  <a href="https://en.wikipedia.org/wiki/Model–view–controller" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVC-3D4C5D?style=for-the-badge" alt="MVC"></a>
+  <a href="https://en.wikipedia.org/wiki/Model–view–viewmodel" target="_blank"><img src="https://img.shields.io/badge/Architecture-MVVM-3D4C5D?style=for-the-badge" alt="MVVM"></a>
+  <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank"><img src="https://img.shields.io/badge/Architecture-Clean-3D4C5D?style=for-the-badge" alt="Clean Architecture"></a>
   <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
@@ -28,6 +31,7 @@ My focus is on writing clean, scalable code with a strong foundation in OOP and 
   <a href="https://pub.dev/packages/hive" target="_blank"><img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black" alt="Hive"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 </p>
 
